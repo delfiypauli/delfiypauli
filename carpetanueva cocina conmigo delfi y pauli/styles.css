@@ -1,0 +1,59 @@
+body{
+    background-color:#e495c3;
+}
+
+h1{
+    color: rgba(175, 230, 252, 0.925);
+}
+
+img{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.texto{
+    width: 100%;
+    background-color:rgb(252, 243, 191);
+    text-align: center;
+}
+
+.grupo-fotos{
+    background-color:rgb(166, 242, 245) ;
+}
+.foto-{
+    background-color: rgb(144, 223, 223);
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+ 
+ .myButton {
+	box-shadow:inset 4px 0px 19px -4px #f9eca0;
+	background:linear-gradient(to bottom, #f011c0 5%, #eb9a03 100%);
+	background-color:#dda6e2;
+	border-radius:42px;
+	border:2px solid #e65f44;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	padding:9px 31px;
+	text-decoration:none;
+	text-shadow:-4px 1px 0px #ded17c;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #eb9a03 5%, #f0c911 100%);
+	background-color:#eb9a03;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
